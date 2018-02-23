@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/linearLayout">
+    <TextView
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:text="Salata"
+        android:textSize="15dp"
+        android:id="@+id/txtItem"/>
+    <TextView
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:text="EGP 50"
+        android:textSize="15dp"
+        android:id="@+id/txtItemPrice"/>
+    <TextView
+        android:layout_width="0dp"
+        android:layout_weight="0.14"
+        android:layout_height="wrap_content"
+        android:text="x"
+        android:textSize="30dp"
+        android:textColor="@color/colorPrimary"/>
+
+    <TextView
+        android:id="@+id/txtQuantity"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.34"
+        android:text="1"
+        android:textSize="15dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="0dp"
+        android:layout_weight="0.27"
+        android:layout_height="48dp"
+        android:src="@drawable/close_button"
+        android:onClick="RemoveItem"/>
+</LinearLayout>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Remon\.android\build-cache\8fb3d86e3adabf66f723ed88c611bc022008ddb2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="89ba8466f3e32427af7aa725eb7be31a15c78a77">
+        <dex dex="C:\Users\Remon\Downloads\ToGo\app\build\intermediates\pre-dexed\debug\classes_27c686228a8a3477881ee92ec7eaf758264af347.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Remon\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="C:\Users\Remon\Downloads\ToGo\app\build\intermediates\pre-dexed\debug\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_725c65ba49eec07ef1d84708ca144cd448ceb2f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Remon\.android\build-cache\fc301fa9108de66f95dd191569c967004299e18f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1828dd75d357690efb2c5f4326804e2f7ad21f6c">
+        <dex dex="C:\Users\Remon\Downloads\ToGo\app\build\intermediates\pre-dexed\debug\classes_ad421aaaa038d7411a65cc0a0ad2c79c3e062e16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Remon\.android\build-cache\735a2f8fc3252a4f25f9914edf3c0a6226fc3190\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="C:\Users\Remon\Downloads\ToGo\app\build\intermediates\pre-dexed\debug\classes_cb4238e929f0869ddab48c678f6058520ac2ce93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Remon\.android\build-cache\d486db16ab0be46c3773b9fd127b9cc0cfe42cbe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Remon\Downloads\ToGo\app\build\intermediates\pre-dexed\debug\classes_cc84e54cbb2992c26645e1806f77ffa9bf192152.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Remon\.android\build-cache\0cb63adfa1f90231e9286accfa65410bf6ec73be\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="C:\Users\Remon\Downloads\ToGo\app\build\intermediates\pre-dexed\debug\classes_1bfcd3a7909cf1d406cabf6f6d5df215d276fc5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Remon\.android\build-cache\02d8eba63b6471390f36e3ce22f21f045726da01\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Remon\Downloads\ToGo\app\build\intermediates\pre-dexed\debug\classes_5f41dfb5546959a4f800344d57cdf0e573a5265f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Remon\.android\build-cache\32014cf2d8fc577ba82ef201e125e8c2630ea0af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Remon\Downloads\ToGo\app\build\intermediates\pre-dexed\debug\classes_59194cc8ad8a9c39032ccbc6184350c31b116739.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Remon\.android\build-cache\a090b540b1456d871b10a64dca204d02893d3b3e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Remon\Downloads\ToGo\app\build\intermediates\pre-dexed\debug\classes_29e0593bc3478e720435b3dd805581b7f921ccde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Remon\.android\build-cache\bd4abbf3d46d3390e32402ceb2dcb81f0ad13b29\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="C:\Users\Remon\Downloads\ToGo\app\build\intermediates\pre-dexed\debug\classes_8b04b6b240e0d2cd9622491d213344517def665e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Remon\.android\build-cache\9a4c2f2f5461fd681ccaaf0486f9add4fb82f47a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\Remon\Downloads\ToGo\app\build\intermediates\pre-dexed\debug\classes_09e426b8a8ec4a31b8745a78e69aa7cd9a5f7a66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Remon\.android\build-cache\5b4d66621070bb8e7fe592cc73eca7cea46da2ab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c63796d3458da906fd9cd97a12121a3ee74b58a7">
+        <dex dex="C:\Users\Remon\Downloads\ToGo\app\build\intermediates\pre-dexed\debug\classes_17de19582718521d810ff91220e48cef544c43c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Remon\.android\build-cache\cc90fc6eb05542c4827ce260af8bee0fad5b607c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Remon\Downloads\ToGo\app\build\intermediates\pre-dexed\debug\classes_d520e0a91dc9034d2a3087512f23d8202fdde59c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Remon\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta4\constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="C:\Users\Remon\Downloads\ToGo\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-beta4_3db9c63c5e4f50aa15d2a4c0a0103e7aa19f170a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Remon\.android\build-cache\39e8209cdbab24fdb75f5beea7bdcec184a594f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Remon\Downloads\ToGo\app\build\intermediates\pre-dexed\debug\classes_945a2930c921360579be3f88dbb0996042501f13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Remon\.android\build-cache\4bb53b717599244559782e5ceaa489823eb0b6d1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Remon\Downloads\ToGo\app\build\intermediates\pre-dexed\debug\classes_aa338fb98bd5704128d145a95d5ae9873be95058.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Remon\.android\build-cache\6933aaae9b622c7023ef8e72dff38bc6524d9d58\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\Remon\Downloads\ToGo\app\build\intermediates\pre-dexed\debug\classes_705491e427a12a253767542d16a3611e4f8866bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Remon\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Remon\Downloads\ToGo\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_f886523ce591aa39453b87fe742632b803cda14c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Remon\.android\build-cache\ea42c11d444f14f0354913febd66c7b01e40c0ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Remon\Downloads\ToGo\app\build\intermediates\pre-dexed\debug\classes_084f5b4c15200b1a9da3b4d4c54fc0f412aa69f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Remon\.android\build-cache\9b7d170c5a500ffd11ac666850a92c5cd5dd2e74\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Remon\Downloads\ToGo\app\build\intermediates\pre-dexed\debug\classes_1f6918ca2fccbe20c5d345fa9c2fef9db28e51ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Remon\.android\build-cache\a071e42d2887c42a4ac14e7cad65cbee3b5695e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Remon\Downloads\ToGo\app\build\intermediates\pre-dexed\debug\classes_fc42fc900a7d80510367da0b3d86c2b4df3570a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Remon\.android\build-cache\67cd14f5e09c44de1f41d515eec197645d4849b6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="C:\Users\Remon\Downloads\ToGo\app\build\intermediates\pre-dexed\debug\classes_b9ded77fb701bace06ad30391daaba34409b839f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Remon\.android\build-cache\96e96b2b65c13df05a0c81a494c805b200dea2e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Remon\Downloads\ToGo\app\build\intermediates\pre-dexed\debug\classes_ee64c2f6c039caf6a960675eaf0521e541ab4928.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Remon\.android\build-cache\a3f5baa10a7d08e429065d2acee0427701d3fd0f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="C:\Users\Remon\Downloads\ToGo\app\build\intermediates\pre-dexed\debug\classes_c00be17ba1200dbbbc6eead20441f91f887dfe7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Remon\.android\build-cache\db378d7cbcce47b9ea3b8e87116fad64534e8820\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Remon\Downloads\ToGo\app\build\intermediates\pre-dexed\debug\classes_d64f7e8417635b1c32b86f82c9ecb4c14848b193.jar" />
+    </item>
+
+</items>

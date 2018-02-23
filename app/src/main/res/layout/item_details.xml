@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <ImageView
+        android:scaleType="centerCrop"
+        android:id="@+id/poster"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:src="@drawable/fish"
+        android:layout_weight="3" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtitemDetailsPrice"
+            android:text="500" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtItemDetailsName"
+            android:text="ﺳﻤﻚ"
+            android:layout_alignParentRight="true"
+
+            />
+    </RelativeLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/txtItemDetailsDescription"
+        android:text="ﻟﻮرﻳﻢ إﻳﺒﺴﻮم) ﺷﻜﻠﻲ )ﺑﻤﻌﻨﻰ أن اﻟﻐﺎﻳﺔ ﻫﻲ اﻟﺸﻜﻞ وﻟﻴﺲ ﺴﺘﺨﺪم ﻓﻲ ﺻﻨﺎﻋﺎت اﻟﻤﻄﺎﺑﻊ ُاﻟﻤﺤﺘﻮى( وﻳ ودور اﻟﻨﺸﺮ. ﻛﺎن ﻟﻮرﻳﻢ إﻳﺒﺴﻮم وﻻﻳﺰال اﻟﻤﻌﻴﺎر ﻟﻠﻨﺺ اﻟﺸﻜﻠﻲ ﻣﻨﺬ اﻟﻘﺮن اﻟﺨﺎﻣﺲ ﻋﺸﺮ ﻋﻨﺪﻣﺎ ﻗﺎﻣﺖ ﻣﻄﺒﻌﺔ ﻣﺠﻬﻮﻟﺔ ﺑﺮص ﻣﺠﻤﻮﻋﺔ ﻣﻦ ا«ﺣﺮف ﺑﺸﻜﻞ ﻋﺸﻮاﺋﻲ أﺧﺬﺗﻬﺎ ﻣﻦ ﻧﺺ.
+"
+        android:layout_weight="1"
+        android:layout_margin="15dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        >
+        <ImageView
+            android:padding="15dp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:text="+"
+            android:src="@drawable/ic_remove"
+            android:onClick="removeOne"
+            android:id="@+id/imgRemoveOne"/>
+        <TextView
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:text="1"
+            android:id="@+id/txtQuantity"/>
+        <ImageView
+            android:padding="15dp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:text="-"
+            android:src="@drawable/ic_add"
+            android:onClick="addOne"
+            android:id="@+id/lk"/>
+    </LinearLayout>
+    <ToggleButton
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/cartToggleButton"
+        android:textOn="إضافة إلى العربة"
+        android:textOff="إضافة إلى العربة"
+        android:textSize="30dp"
+        android:textColor="#FFFFFF"
+        android:background="@color/colorPrimary"
+        android:layout_margin="15dp"
+        android:layout_weight="0.5"/>
+
+</LinearLayout>

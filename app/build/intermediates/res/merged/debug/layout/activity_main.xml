@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:paddingTop="15dp"
+    android:paddingLeft="50dp"
+    android:paddingRight="50dp"
+    tools:context="com.bricksai.togo.MainActivity">
+
+    <ImageView
+        android:src="@drawable/vector_logo"
+        android:id="@+id/imageLogo"
+        android:layout_width="match_parent"
+        android:layout_height="195dp" />
+
+    <EditText
+        android:layout_marginTop="40dp"
+        android:id="@+id/edPhone"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:padding="10dp"
+        android:drawableStart="@drawable/phone"
+        android:hint="Phone"
+        android:paddingLeft="10dp"
+        android:inputType="phone"
+        android:background="@drawable/edit_text_box"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+    
+    <EditText
+        android:layout_below="@+id/edPhone"
+        android:layout_marginTop="20dp"
+        android:id="@+id/edPassword"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:padding="10dp"
+        android:drawableStart="@drawable/lock"
+        android:background="@drawable/edit_text_box"
+        android:hint="Password"
+        android:paddingLeft="10dp"
+        android:inputType="textPassword"/>
+
+    <Button
+        android:onClick="signIn"
+        android:textSize="22dp"
+        android:textColor="#FFFFFF"
+        android:text="Sign In"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:onClick="signUp"
+        android:textSize="22dp"
+        android:textColor="#FFFFFF"
+        android:text="Sign UP"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_marginTop="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:gravity="end"
+            android:textColor="#FFFFFF"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/forgot"
+            android:textStyle=""
+            android:onClick="resetPassword"/>
+
+    </LinearLayout>
+
+</LinearLayout>

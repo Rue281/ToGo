@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:src="@drawable/vector_logo"
+        android:layout_marginTop="90dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="ToGo"
+        android:layout_gravity="center"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="10dp"
+        android:textStyle="bold"
+        android:textSize="30dp"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Beta Version 1.0.7"
+        android:layout_gravity="center"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="20dp"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="\@2016-2017 BricksAi Inc."
+        android:layout_gravity="center"
+        android:textColor="#FFFFFF"
+        android:textSize="20dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="All rights reserved."
+        android:layout_gravity="center"
+        android:textColor="#FFFFFF"
+        android:layout_marginBottom="50dp"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Contact Developer"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:textColor="@color/g_grey"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Email: info@bricksai.com"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:textColor="@color/g_grey"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Mobile: +201015434300"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:textColor="@color/g_grey"
+        android:textSize="20dp"
+        />
+
+
+</LinearLayout>

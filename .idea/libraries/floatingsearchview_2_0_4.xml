@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="floatingsearchview-2.0.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/5b4d66621070bb8e7fe592cc73eca7cea46da2ab/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/5b4d66621070bb8e7fe592cc73eca7cea46da2ab/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.arimorty/floatingsearchview/2.0.4/a5d26b801debb91fce7464e33d123ffa98a0b53b/floatingsearchview-2.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

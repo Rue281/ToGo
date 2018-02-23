@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">To Go</string>
+    <string name="forgot"><u>I forgot my password</u>.</string>
+    <string name="title_activity_app">AppActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

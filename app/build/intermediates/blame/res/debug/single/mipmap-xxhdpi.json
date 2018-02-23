@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Remon\\Downloads\\ToGo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Remon\\Downloads\\ToGo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Remon\\Downloads\\ToGo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_caffe.png",
+        "source": "C:\\Users\\Remon\\Downloads\\ToGo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_caffe.png"
+    },
+    {
+        "merged": "C:\\Users\\Remon\\Downloads\\ToGo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_resturant.png",
+        "source": "C:\\Users\\Remon\\Downloads\\ToGo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_resturant.png"
+    },
+    {
+        "merged": "C:\\Users\\Remon\\Downloads\\ToGo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Remon\\Downloads\\ToGo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]
